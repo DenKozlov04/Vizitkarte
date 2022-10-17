@@ -1,0 +1,17 @@
+
+body {
+    background-image: url(pizza.jpg);
+    font-size: 5.2rem;
+    display: block;
+    margin-left: 150px;
+    margin-right: 200px;
+
+     }
+text {
+    font-family: 'Common Pixel', sans-serif;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
