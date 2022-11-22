@@ -1,0 +1,16 @@
+body {
+    background-image: url(lemon.jpg);
+    display: block;
+    margin-left: 150px;
+    margin-right: 200px;
+}
+
+html, body {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+   
+
