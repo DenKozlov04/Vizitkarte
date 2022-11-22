@@ -1,8 +1,9 @@
 body {
-    background-image: url(lemon.jpg);
+    background-image: url(photos\lemon.jpg);
     display: block;
     margin-left: 150px;
     margin-right: 200px;
+    background-color: rgb(56, 56, 56);
 }
 
 html, body {
