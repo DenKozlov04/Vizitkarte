@@ -29,9 +29,9 @@ body {
 body {margin:10;}
 
 .icon-bar {
-    width: 103.4%;
-    max-width: 1604px;
-    position:relative;
+    width: 1605px;; 
+    height:90px;
+    display: block;
     background-color: rgb(41, 41, 41);
     overflow: auto;
 }
